@@ -4,7 +4,7 @@ Hybrid cloud scholarship foundation course
 
 * Lesson 1: Introduction to Nutanix Hybrid Cloud
 
-* Lesson 2: Journey to the moden Hybird cloud
+* Lesson 2: Journey to the modern Hybird cloud
 
 * Lesson 3: Introduction to Nutanix HCI
 
